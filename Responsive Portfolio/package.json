@@ -1,0 +1,20 @@
+{
+  "name": "responsive-portfolio",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalbi324/Kalbi-Responsive-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalbi324/Kalbi-Responsive-/issues"
+  },
+  "homepage": "https://github.com/kalbi324/Kalbi-Responsive-#readme",
+  "description": ""
+}
